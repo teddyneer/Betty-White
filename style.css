@@ -1,0 +1,54 @@
+body {
+	background-color: #4d4d4d;
+	color: white;
+	border-style: solid;
+	border-width: 5px;
+	border-color: grey;
+	margin: 100px 100px 100px 100px;
+	padding: 55px 50px 50px 50px;
+}
+img {
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	padding: 5px;
+	float: right;
+	margin: 50px 0 10px 10px;
+	width: 250px;
+}
+h1, h3 {
+	text-align: center;
+}
+h2{ 
+	font-size: 28px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p {
+	font-family: Verdana, Geneva, sans-serif;
+}
+nav {
+	text-align: center;
+}
+a {
+	color: #00e6ac;
+}
+.heading{
+	display: inline;
+}
+.link {
+	display: inline;
+}
+#experience {
+	list-style: square;
+}
+.headers {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 18px;
+	color: #8c8c8c;
+}
+span {
+	color: #8c8c8c;
+}
+.job {
+	font-family: Arial, Helvetica, sans-serif;
+}
